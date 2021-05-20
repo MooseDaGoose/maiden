@@ -56,7 +56,3 @@ class InstaBot:
         return names
 
 ##############################################
-
-myBot = InstaBot("durhanicuts", "Farmerjoe2")
-#!!!^Figure out how to either grant input for parameters or store parameters on a file
-myBot.get_unfollowers()
